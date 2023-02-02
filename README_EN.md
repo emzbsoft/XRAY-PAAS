@@ -15,7 +15,7 @@ TIPS: You can create a private repository based on the original repository by cl
 ## Deployment
 
 * Register any PaaS cloud service provider
-* Bind your own github account or use the Actions provided by the project to generate a DockerHub image according to the PaaS cloud provider, small + private library is seriously recommended
+* Bind your own github account or use the Actions provided by the project to generate a DockerHub image according to the PaaS cloud provider, alts + private library is seriously recommended
 * Variables available to the project
 
   | Variable Name | Required | Default | Remarks |
