@@ -1,5 +1,7 @@
 # xray for PaaS
 
+[README in English](https://github.com/Misaka-blog/xray-paas/blob/main/README_EN.md)
+
 TIPS: 可点击仓库的“Use this template”在仓库的原基础上创建私库
 
 ![image](https://user-images.githubusercontent.com/122191366/212063458-2def0e1a-805a-4451-ae62-324b67abee47.png)

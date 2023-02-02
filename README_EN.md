@@ -2,7 +2,7 @@
 
 TIPS: You can create a private repository based on the original repository by clicking on "Use this template" in the repository
 
-! [image](https://user-images.githubusercontent.com/122191366/212063458-2def0e1a-805a-4451-ae62-324b67abee47.png)
+![image](https://user-images.githubusercontent.com/122191366/212063458-2def0e1a-805a-4451-ae62-324b67abee47.png)
 
 ## Project Features
 
@@ -37,7 +37,7 @@ TIPS: You can create a private repository based on the original repository by cl
   |DOCKER_PASSWORD|Docker Hub password|
   |DOCKER_REPO|Docker Hub repository name|
 
-! [image](https://user-images.githubusercontent.com/116990986/211692321-34df154a-320a-448f-9abe-2efab9c53550.png)
+![image](https://user-images.githubusercontent.com/116990986/211692321-34df154a-320a-448f-9abe-2efab9c53550.png)
 
 ## Acknowledgements
 
@@ -52,6 +52,6 @@ ifeng's v2ray project: https://github.com/hiifeng
 
 afdian: https://afdian.net/a/Misaka-blog
 
-! [afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
+![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
 
 Translated with www.DeepL.com/Translator (free version)
