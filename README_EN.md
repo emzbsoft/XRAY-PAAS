@@ -21,13 +21,13 @@ TIPS: You can create a private repository based on the original repository by cl
   | Variable Name | Required | Default | Remarks |
   | ------------ | ------ | ------ | ------ |
   | UUID | No | de04add9-5c68-8bab-950c-08cd5320df18 | Can be generated online at https://www.uuidgenerator.net/ |
-  | VMESS_WSPATH | no | /vmess | starts with /
-  | vless_wspath | no | /vless | starts with /
-  | no | /trojan | starts with /
-  | SS_WSPATH | no | /shadowsocks | starts with /
-  | No, the IP or domain name of the Nezha probe server.
-  | NEZHA_PORT | No | The port of the Nezha probe server |
-  | NEZHA_KEY | No | Nezha Probe client-specific key |
+  | VMESS_WSPATH | no | /vmess | starts with / |
+  | VLESS_WSPATH | no | /vless | starts with / |
+  | TROJAN_WSPATH |no | /trojan | starts with / |
+  | SS_WSPATH | no | /shadowsocks | starts with / |
+  | NEZHA_SERVER | No | | The server address of the Nezha probe server |
+  | NEZHA_PORT | No | |  The port of the Nezha probe server |
+  | NEZHA_KEY | No | | Nezha Probe client-specific key |
 
 * Variables used by GitHub Actions
 
@@ -53,5 +53,3 @@ ifeng's v2ray project: https://github.com/hiifeng
 afdian: https://afdian.net/a/Misaka-blog
 
 ![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
-
-Translated with www.DeepL.com/Translator (free version)
